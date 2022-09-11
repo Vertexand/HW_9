@@ -18,10 +18,11 @@ Console.WriteLine(SUM(4, 8));
 
 
 
+
+
 /* int ProizvRek(int a, int b) // возвед в степень
 {
     if (b == 0) return 1;
-    else return a * ProizvRek(a, b - 1); //b как счетчик вызывается не пон
+    else return a * ProizvRek(a, b - 1); //b как счетчик вызывается 
 }
 Console.WriteLine(ProizvRek(2, 8)); */
-/* shift+alt+ a */
